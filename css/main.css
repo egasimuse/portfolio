@@ -279,4 +279,8 @@ main {
   main#home h1 {
     margin-top: 10vh; }
   .projects {
-    grid-template-columns: repeat(1, 1fr); } }
+    grid-template-columns: repeat(1, 1fr); }
+  .boxes div {
+    font-size: 1.3rem; }
+  .lg-heading.contact {
+    font-size: 4.5rem; } }
